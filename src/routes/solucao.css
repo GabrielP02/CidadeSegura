@@ -1,0 +1,47 @@
+.tituloSolucao{
+    color: black;
+    position: relative;
+    margin-right: -80%;
+}
+
+.container3{
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+    display: grid;
+    place-items: center;
+    height: 20vh;
+    width: 60vh;
+    margin-left: 20%;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+    
+}
+.Solucao{
+    position: relative;
+    font-size: 20px;
+    color: black;
+    margin-right: 20%;
+}
+
+.recife{
+    width: fit-content;
+    position:relative; 
+  top: -443px; 
+  left:-300px; 
+  height: 425px;
+  width: 550px;
+  border-radius: 15% 15% 15% 3%;
+
+
+}
+.pag1{
+    position: relative;
+   width:120%;
+   height: 120%;
+   margin-left: 200%;
+   bottom: 125%;
+   border-radius: 10%;
+   
+}

@@ -1,0 +1,12 @@
+.botoesLC{
+    text-decoration: none;
+    transition: transform 0.3s;
+    color:black;
+    margin-left: 100px;
+}
+.botoesLC:visited{
+    color: black;
+}
+.botoesLC:hover{
+    transform: scale(1.3);
+}
