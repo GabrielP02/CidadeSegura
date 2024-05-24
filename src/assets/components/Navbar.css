@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+.nav{
+    margin-top:-17px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    font-style: normal;
+    font-family: "Montserrat", sans-serif;    
+    font-weight: bold;
+    color: currentColor;
+    font-size: 25px;
+    padding: 1px 150px;
+    
+
+}
+.logo{
+    line-height: 0;
+}
+
+.imagem1,.imagem2,.imagem3,.imagem4{
+    width:1900px ;
+    height:600px ;
+    opacity: 0.9;
+    filter: brightness(50%);
+
+
+}
+.cidade{
+    font-size: 40px;
+    color: #4AB1B8;
+    text-shadow: 
+    1px 1px 0 #558d8d, 
+    -1px -1px 0 #558d8d, 
+    -1px 1px 0 #558d8d, 
+    1px -1px 0 #558d8d,
+    1px 0 0 #558d8d,
+    -1px 0 0 #558d8d,
+    0 1px 0 #558d8d,
+    0 -1px 0 #558d8d;
+
+
+}
+.segura{
+    font-size: 40px;
+    color: #4AB1B8;
+    text-shadow: 
+    1px 1px 0 #558d8d, 
+    -1px -1px 0 #558d8d, 
+    -1px 1px 0 #558d8d, 
+    1px -1px 0 #558d8d,
+    1px 0 0 #558d8d,
+    -1px 0 0 #558d8d,
+    0 1px 0 #558d8d,
+    0 -1px 0 #558d8d;
+
+
+}
+
+.legenda{
+    font-size: 400%;
+    color: rgb(255, 255, 255);
+    left: 10px;
+    margin-top: -19%;
+    filter: brightness(100%)
+ 
+    
+
+}
+
+.texto{
+    margin-top: -3%;
+}
+
+
+
+ 
