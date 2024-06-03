@@ -1,0 +1,24 @@
+.tituloSolucao{
+    color: black;
+}
+
+.container3{
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+    display: grid;
+    place-items: center;
+    height: 20vh;
+    width: 60vh;
+    margin-left: 20%;
+    
+    
+}
+.Solucao{
+    font-size: 2vh;
+    color: black;
+}
+.pag1{
+ 
+    height: 80vh;
+    border-radius: 10%;
+}
